@@ -11,3 +11,7 @@ don't quite get the html5 validation process, but I gues I'll try to implement i
 I guess the validation just works
 
 the code AS it IS now only with HTML passes the checkbox on fcc site, but I will try to style it with css now, so the page layout looks as close to the example site.
+
+added divs for styling with css
+
+so far no conflict with fcc checker
