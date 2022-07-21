@@ -113,23 +113,24 @@ font-size: 18px;}
 
 .radio{display: flex;
     flex-direction: column;
-  
-    }
+  }
 
       .check{}
 
       .para{}
 
       #definately{
-        
         }
+      
 
       
         
     
 
 
-.checkbox{margin: 0 0 8px;}
+.checkbox{}
+
+
 
 #number-label{display: flex;
 font-size: 18px;
@@ -148,4 +149,19 @@ label{font-size: 18px;}
 p{font-size: 18px;}
 
 
+::placeholder{font-family: 'Poppins' sans-serif;
+font-size: 16px;
+padding-left: 10px;}
 
+:disabled{font-family: 'Poppins' sans-serif;
+  font-size: 16px;
+  padding-left: 10px;}
+
+option{font-family: 'Poppins' sans-serif;
+  font-size: 16px;
+  padding-left: 10px;}
+ 
+  #suggestions {}
+
+
+ 
